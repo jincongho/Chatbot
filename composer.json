@@ -1,0 +1,17 @@
+{
+    "name": "jincongho/chatbot",
+    "description": "An regular expression based chatbot",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jin Cong Ho",
+            "email": "jincongho@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jincongho\\Chatbot\\": "src"
+        }
+    }
+}
